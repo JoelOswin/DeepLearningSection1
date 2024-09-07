@@ -1,2 +1,2 @@
-# DeepLearningSection1
-CodeCycle - DeepLearningSectionOne
+# DEEP LEARNING SECTION ONE
+CodeCycle - Deep Learning Section One
